@@ -1,7 +1,7 @@
 ## DURUMI github profile
 **_This is real_**
 
-[DURUMI Lab](https://lab.durumi.me)
+[DURUMI.ME](https://durumi.me)
 
 [DURUMI soundcloud profile](https://soundcloud.com/durumi)
 
