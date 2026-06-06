@@ -1,8 +1,3 @@
-## DURUMI github profile
-**_This is real_**
+<img width="1000" height="333" alt="logo" src="https://github.com/user-attachments/assets/40ef64fa-fd63-479a-86b5-7a962ff1ac6f" />
 
-[DURUMI.ME](https://durumi.me)
-
-[DURUMI soundcloud profile](https://soundcloud.com/durumi)
-
-![pixelavatar](https://user-images.githubusercontent.com/10591654/130821066-a0b6d8dd-380a-4424-93a3-4e2281efd9aa.png)
+### web - [DURUMI.ME](https://durumi.me) 
